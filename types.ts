@@ -1,4 +1,6 @@
 
+export type EnergyLevel = 'low' | 'medium' | 'high';
+
 export interface Lesson {
   id: string;
   title: string;
@@ -18,4 +20,5 @@ export interface RoutineTask {
   task: string;
   time: string;
   completed: boolean;
+  energyRequired: EnergyLevel;
 }
