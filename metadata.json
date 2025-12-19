@@ -1,0 +1,7 @@
+{
+  "name": "GoldenGuide - 金毛幼犬关怀与训练助手",
+  "description": "专为患有抑郁症的宠主设计的金毛训练辅助工具。提供温柔的正向引导方案、每日训练清单以及AI专家咨询，帮助您与调皮的毛孩子建立深厚情感纽带。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
